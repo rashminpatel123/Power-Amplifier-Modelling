@@ -15,6 +15,12 @@ C_Inverse_PA.m     (Coefficients for DPD)
 Test.m (Final Linear Plot)
 Fix_Point_Test.m (Final Linear Plot in Fix_Point Arithmetic)
 
+To get Dataset for Doherty Power Amplifier, kindly drop a mail at rashminpatel405@gmail.com. 
+Input.txt 
+Input_1.txt
+Output.txt
+Output_1.txt
+
 DOCUMENTATION: 
 @https://docs.google.com/document/d/16AKgFZMKAPzAPKr3hsfP9lNy8CYwAmr55BwTthpXLI4/edit
 
